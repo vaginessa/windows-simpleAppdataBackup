@@ -1,0 +1,21 @@
+\Users\testone\AppData\Local\Google\Chrome\User Data\Caps
+\Users\testone\AppData\Local\Google\Chrome\User Data\CertificateTransparency
+\Users\testone\AppData\Local\Google\Chrome\User Data\Crashpad
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Application Cache\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Cache\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Cookies
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Cookies-journal
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Favicons
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Favicons-journal
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\GPUCache\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Local Storage\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Media Cache\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Service Worker\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Session Storage\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Storage\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Default\Web Applications\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Profile 1\
+\Users\testone\AppData\Local\Google\Chrome\User Data\Profile 2\
+\Users\testone\AppData\Roaming\vlc\art\
